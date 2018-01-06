@@ -7,7 +7,6 @@ Hi, below is a list of small prototypes I've tinkered with in my limited spare t
 * This will become a table of contents (this text will be scraped).
 {:toc}
 
-
 ----
 
 ## Tiny Haunter
