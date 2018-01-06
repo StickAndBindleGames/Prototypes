@@ -1,4 +1,4 @@
-[Back](https://stickandbindlegames.github.io)
+[<< Back](https://stickandbindlegames.github.io)
 ----
 
 Hi, below are a handful of small prototypes I've tinkered with in my limited spare time between 2015-2017. Please note: everything is hastily thrown together and rather embarassing to show publicly. Art is placeholder and mechanics and UI are often incomplete and certainly not polished. I'm including them as an insight into my personal approaches to fleshing out game design ideas, rather than a display of my capabilities or professional work. They're all projects I briefly worked on to see if I could find the fun within an idea and whether it'd be worth developing further. Some represent my early learning process of graphics programming and engine development, or toying with the ins and outs of various 3rd party engines. Some were made just to make my loved ones giggle. Someday, I hope to have the time to fully flesh out some of these ideas further. There's a lot more than shown here, but these are some of my favorites.
