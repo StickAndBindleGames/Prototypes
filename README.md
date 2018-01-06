@@ -2,7 +2,7 @@
 
 ----
 
-Hi, below is a list of small prototypes I've tinkered with in my limited spare time between 2015-2017. Everything is hastily thrown together: models, UI, features, code, etc. They're all projects I quickly threw together to see if I could find the fun in an idea and whether it'd be worth developing further. Someday, I hope to have the time to fully flesh out some of these ideas further. There's a lot more than shown here, but these are some of my favorites.
+Hi, below is a list of small prototypes I've tinkered with in my limited spare time between 2015-2017. Everything is hastily thrown together: models, UI, features, code, etc. And should be viewed as an insight into my personal approaches to fleshing out game design, rather than my capabilities or professional work. They're all projects I threw together to see if I could find the fun in an idea and whether it'd be worth developing further. Some represent my early learning process of graphics and engine development, or the ins and outs of 3rd party engines. Some were made just to make my loved ones giggle. Someday, I hope to have the time to fully flesh out some of these ideas further. There's a lot more than shown here, but these are some of my favorites.
 
 * This will become a table of contents (this text will be scraped).
 {:toc}
