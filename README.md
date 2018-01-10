@@ -9,9 +9,6 @@ Hi, below are a handful of small prototypes I've tinkered with in my limited spa
 
 ----
 
-## Tiny Haunter
-You play as the ghosts of a house trying to scare away the largely clueless inhabitants. Would attempt to find humor in the oodles of kitchy horror tropes over the ages. 
-
 ## Tiny Revolt
 You manage the inhabitants of a tabletop village trying to gain support and overthrow your tiny king. Would need to garner support for your cause, barricade alleyways, fight guards and eventually take over the castle.
 
