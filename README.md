@@ -45,10 +45,9 @@ This...was my own C++/OpenGL engine from the ground up (though, I eventually cav
 ## Detritus
 Just some random things I found interesting :P
 
-<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/d8GxiUL941o" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="641" height="360" src="https://www.youtube.com/embed/d8GxiUL941o" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 
-<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/rQybSyzN9Rk" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
-
+<iframe width="641" height="360" src="https://www.youtube.com/embed/rQybSyzN9Rk" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
