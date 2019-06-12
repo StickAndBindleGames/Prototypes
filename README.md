@@ -46,4 +46,9 @@ This...was my own C++/OpenGL engine from the ground up (though, I eventually cav
 Just some random things I found interesting :P
 
 <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/d8GxiUL941o?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+
+----
+
+<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/rQybSyzN9Rk" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+
 ----
